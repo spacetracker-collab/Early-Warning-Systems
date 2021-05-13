@@ -11,5 +11,5 @@
 <br>
 [Refactoring an Internet Scanner](https://medium.com/@ramkumariyer/refactoring-an-internet-scanner-crawler-application-the-journey-dbc66d64e751)
 <br>
-[Conversation Commerce Validation](https://chatbotslife.com/visualization-configuration-and-automated-testing-of-a-natural-language-processing-application-81fedd933412?gi=af9a2ca95fb6)
+[Conversation Commerce Validation  in Chatbots Life](https://chatbotslife.com/visualization-configuration-and-automated-testing-of-a-natural-language-processing-application-81fedd933412?gi=af9a2ca95fb6)
 
