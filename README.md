@@ -1,7 +1,7 @@
-# Early-Warning-Systems
+# Public Articles
 [Banking Technology](https://www.financialexpress.com/industry/banking-finance/digital-transformation-re-imagining-banking-experience-via-ibank/1529884/)
 <br>
-[Credit Risk Management](https://www.bctdigital.ai/rt360-credit-risk-suite/)
+[Credit Risk Management](https://www.bctdigital.ai/rt360-credit-risk-suite/) : I was an Architect for this product.
 <br>
 [HyperLedger Overview](https://blog.bahwancybertek.com/an-introduction-to-blockchain-with-hyperledger/)
 <br>
